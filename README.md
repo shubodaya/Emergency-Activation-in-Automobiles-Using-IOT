@@ -1,3 +1,4 @@
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 # Emergency Activation in Automobiles Using IOT
 This repository showcases the implementation of a **Car Accident Detection and Notification System (CADANS)**. The system leverages **Arduino Uno**, **Bluetooth communication**, **sensor data**, and a custom Android app created with **MIT App Inventor** to detect accidents and send emergency notifications with GPS coordinates.
 
