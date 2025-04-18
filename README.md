@@ -131,4 +131,4 @@ If you’d like to contribute, feel free to fork this repository, make changes, 
 
 ## 📬 Contact
 
-For any questions or suggestions, please feel free to reach out to me at [hnshubodaya@gmail.com/Contact Information].
+For any questions or suggestions, please feel free to reach out to me.
